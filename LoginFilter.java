@@ -736,5 +736,8 @@ public class LoginFilter implements Filter {
 		}
 		return lAexServletResponse;
 	}
-	
+
+		private void newMethodToTestGit()
+		{
+		}
 }
