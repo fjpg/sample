@@ -740,4 +740,9 @@ public class LoginFilter implements Filter {
 		private void newMethodToTestGit()
 		{
 		}
+		
+		private void newMethodToTestGit22()
+		{
+		}
+
 }
